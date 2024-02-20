@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = tony Rite
+Tony Rite
+Security Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+tonynemesrite@gmail.com
 
 Phone
-+1 (213) 352-2795
++255 747115744
 
 Birthday
-June 23, 1982
+april 7
 
 Location
-Sacramento, California, USA
+Dar es Salaam ,Tanzania
 
 # navbar
 
