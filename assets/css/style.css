@@ -445,7 +445,7 @@ main {
 }
 
 
-.social-item .social-link:hover { color: var(--light-gray); }
+.social-item .social-link:hover { color: #5987eb; }
 
 
 
@@ -1212,9 +1212,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn ion-icon { font-size: 16px; }
 
-.form-btn:hover { background: var(--bg-gradient-yellow-1); }
+.form-btn:hover { background: #5987eb; }
 
-.form-btn:hover::before { background: var(--bg-gradient-yellow-2); }
+.form-btn:hover::before { background: linear-gradient(to right, #5987eb, #050505); }
 
 .form-btn:disabled {
   opacity: 0.7;
